@@ -101,10 +101,3 @@ Licença :grey_exclamation:
 The [MIT License]() (MIT)
 
 Copyright :copyright: 2021 - PIDKiller
-
-
-
-
-
-
-
