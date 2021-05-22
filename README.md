@@ -7,10 +7,10 @@
 </h4>
 
 
-Tópicos 📜
+Tópicos :writing_hand:
 =================
 <!--ts-->
-   * [Descrição do Projeto](#Sobre)
+   * [Descrição do Projeto](#descrição-do-projeto-file_folder)
    * [Funcionalidades](#funcionalidades)
    * [Pré-requisitos](#requisitos)
    * [Bibliotecas utilizadas](#bibliotecas)
@@ -21,7 +21,7 @@ Tópicos 📜
    * [Licença](#license)
 <!--te-->
 
-Descrição do Projeto 📂
+Descrição do Projeto :file_folder:
 ========================
 Finalizar programas rodando em maquinas remotas.
 
